@@ -3,7 +3,7 @@
 - JDK 1.8
 - Maven
 
-### Compiling/Building and running the unit tests
+### Compiling/Building and running
 
 Go to the project root folder and then run: ./bin/setup.sh
 
